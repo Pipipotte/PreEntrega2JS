@@ -9,8 +9,8 @@ class Producto {
 }
 
 const branding = new Producto ("Branding", 1000);
-const frontend = new Producto ("Frontend", 2000);
-const UXUI = new Producto ("UxUi", 3000);
+const frontend = new Producto ("Frontend", 1500);
+const UXUI = new Producto ("UxUi", 2200);
 const descuentoNum = 0.8;
 
 /* let arrayProductos = ['branding', 'frontend', 'UXUI']; */
